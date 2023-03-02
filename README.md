@@ -19,4 +19,9 @@
 
         데이터 크롤링 진행률  95%   
         데이터 시각화 고민중 .....
-    
+
+★ Update. 03/01
+
+    #프로젝트 완성
+
+        사용프로그램 - VSCODE, MySQL_Workbench, Excel, Power_BI
